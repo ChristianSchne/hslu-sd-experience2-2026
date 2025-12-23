@@ -58,3 +58,4 @@ sysinfo.txt
 *.apk
 
 polyperfect/
+.vscode
