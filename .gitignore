@@ -57,5 +57,5 @@ sysinfo.txt
 # Builds
 *.apk
 
-polyperfect/
 .vscode
+.utmp
