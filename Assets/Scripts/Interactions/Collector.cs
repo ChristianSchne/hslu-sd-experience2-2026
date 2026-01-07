@@ -22,7 +22,7 @@ public class Collector : MonoBehaviour
         if(collectable != null)
         {
             count = count + 1;
-            collectable.onCollect.Invoke();
+            collectable.Collect();
             onCollect.Invoke();
             UpdateText();
             if (destroyOnCollect)
