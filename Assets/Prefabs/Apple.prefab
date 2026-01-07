@@ -513,6 +513,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  triggerOnlyOnce: 1
 --- !u!1001 &491598760655721005
 PrefabInstance:
   m_ObjectHideFlags: 0
